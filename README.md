@@ -1,2 +1,2 @@
 # condcurve
-Condensation curve analysis functions.
+Condensation curve analysis functions. Full README coming with publication.
